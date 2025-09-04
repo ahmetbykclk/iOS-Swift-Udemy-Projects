@@ -4,7 +4,7 @@ A beautiful iOS weather application that provides real-time weather information 
 
 ## Screenshots
 
-![App Screenshot](./Screenshot.png)
+<img src="./Screenshot.png" width="300" alt="App Screenshot">
 
 ## Features
 

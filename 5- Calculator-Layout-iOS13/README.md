@@ -4,7 +4,7 @@ A comprehensive iOS calculator layout project that demonstrates advanced AutoLay
 
 ## Screenshots
 
-![App Screenshot](./Screenshot.png)
+<img src="./Screenshot.png" width="300" alt="App Screenshot">
 
 ## Features
 

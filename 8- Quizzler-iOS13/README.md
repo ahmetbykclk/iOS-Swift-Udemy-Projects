@@ -4,8 +4,8 @@ An interactive iOS quiz application that tests your knowledge with multiple-choi
 
 ## Screenshots
 
-![App Screenshot 1](./Screenshot1.png)
-![App Screenshot 2](./Screenshot2.png)
+<img src="./Screenshot1.png" width="300" alt="App Screenshot 1">
+<img src="./Screenshot2.png" width="300" alt="App Screenshot 2">
 
 ## Features
 

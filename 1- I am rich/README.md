@@ -4,7 +4,7 @@ A simple iOS application that displays a diamond image with the text "I am Rich"
 
 ## Screenshots
 
-![App Screenshot](./Screenshot.png)
+<img src="./Screenshot.png" width="300" alt="App Screenshot">
 
 ## Features
 

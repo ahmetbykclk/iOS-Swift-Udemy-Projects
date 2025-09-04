@@ -4,7 +4,7 @@ An advanced iOS dice rolling application that demonstrates AutoLayout constraint
 
 ## Screenshots
 
-![App Screenshot](./Screenshot.png)
+<img src="./Screenshot.png" width="300" alt="App Screenshot">
 
 ## Features
 

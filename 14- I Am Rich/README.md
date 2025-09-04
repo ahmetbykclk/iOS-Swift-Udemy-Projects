@@ -4,7 +4,7 @@ A minimal SwiftUI application inspired by the classic "I Am Rich" app. Displays 
 
 ## Screenshots
 
-![App Screenshot](./Screenshot.png)
+<img src="./Screenshot.png" width="300" alt="App Screenshot">
 
 ## Features
 

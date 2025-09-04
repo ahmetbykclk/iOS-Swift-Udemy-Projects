@@ -4,7 +4,7 @@ A mystical iOS application that simulates the classic Magic 8 Ball experience. A
 
 ## Screenshots
 
-![App Screenshot](./Screenshot.png)
+<img src="./Screenshot.png" width="300" alt="App Screenshot">
 
 ## Features
 

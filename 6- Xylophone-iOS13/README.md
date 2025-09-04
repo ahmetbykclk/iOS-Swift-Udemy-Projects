@@ -4,7 +4,7 @@ An interactive iOS xylophone application that plays musical notes when you tap t
 
 ## Screenshots
 
-![App Screenshot](./Screenshot.png)
+<img src="./Screenshot.png" width="300" alt="App Screenshot">
 
 ## Features
 

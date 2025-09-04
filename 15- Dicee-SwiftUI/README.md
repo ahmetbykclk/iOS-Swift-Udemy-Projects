@@ -4,7 +4,7 @@ A fun SwiftUI dice rolling application. Tap the Roll button to generate two rand
 
 ## Screenshots
 
-![App Screenshot](./Screenshot.png)
+<img src="./Screenshot.png" width="300" alt="App Screenshot">
 
 ## Features
 
