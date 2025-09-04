@@ -63,6 +63,8 @@ A comprehensive collection of 16 iOS applications built during the Udemy Swift d
 
 Each project includes screenshots demonstrating the app's functionality and user interface. Screenshots are located in individual project folders.
 
+> **Note**: Screenshots are optimized for GitHub display. For full resolution images, please check individual project folders.
+
 ## 🎯 Course Progress
 
 This portfolio represents a complete journey through iOS development fundamentals:
