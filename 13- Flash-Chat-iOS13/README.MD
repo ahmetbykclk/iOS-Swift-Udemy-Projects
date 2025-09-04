@@ -4,10 +4,12 @@ A simple and modern iOS chat application that enables real-time messaging using 
 
 ## Screenshots
 
-<img src="./Screenshot1.png" width="300" alt="Screenshot 1">
-<img src="./Screenshot2.png" width="300" alt="Screenshot 2">
-<img src="./Screenshot3.png" width="300" alt="Screenshot 3">
-<img src="./Screenshot4.png" width="300" alt="Screenshot 4">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./Screenshot1.png" width="300" alt="Screenshot 1">
+  <img src="./Screenshot2.png" width="300" alt="Screenshot 2">
+  <img src="./Screenshot3.png" width="300" alt="Screenshot 3">
+  <img src="./Screenshot4.png" width="300" alt="Screenshot 4">
+</div>
 
 ## Features
 

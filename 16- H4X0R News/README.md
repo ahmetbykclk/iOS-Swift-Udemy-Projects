@@ -4,8 +4,10 @@ A SwiftUI Hacker News client that fetches top stories from the HN Algolia API. B
 
 ## Screenshots
 
-<img src="./Screenshot1.png" width="300" alt="App Screenshot 1">
-<img src="./Screenshot2.png" width="300" alt="App Screenshot 2">
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="./Screenshot1.png" width="300" alt="App Screenshot 1">
+  <img src="./Screenshot2.png" width="300" alt="App Screenshot 2">
+</div>
 
 ## Features
 
